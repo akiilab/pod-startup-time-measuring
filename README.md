@@ -2,9 +2,7 @@
 
 ## Install Go
 
-```shell
-export GO111MODULE=on
-```
+https://golang.org/doc/install
 
 ## Build
 
